@@ -1,0 +1,83 @@
+﻿.container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -ms-flex-align: center;
+}
+
+.brand {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.container-2 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 28px;
+    margin-top: -4vh;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-box-align: center;
+    -webkit-aligns-iems: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.nav-link {
+    font-size: 14px;
+}
+
+.nav-menu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.container-3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-aligns-iems: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: black;
+    padding-inline: 20px;
+}
+
+@media screen and (max-width:767px) {
+    a:hover, a:visited, a:link, a:active {
+        text-decoration: none;
+        color: black;
+        padding-inline: 10px;
+    }
+}
+
+@media screen and (max-width:479px) {
+    a:hover, a:visited, a:link, a:active {
+        text-decoration: none;
+        color: black;
+        padding-inline: 10px;
+    }
+}

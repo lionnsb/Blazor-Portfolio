@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seyer\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\Seyer\\Documents\\git\\Blazor\\Blazor-Portfolio\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seyer\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {
+    "C:\\Users\\Seyer\\Documents\\git\\Blazor\\Blazor-Portfolio\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seyer\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Seyer\\Documents\\git\\Blazor\\Blazor-Portfolio\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\Seyer\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\Seyer\\Documents\\git\\Blazor\\Blazor-Portfolio\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\Seyer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seyer\\source\\repos\\Portfolio\\Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\Seyer\\Documents\\git\\Blazor\\Blazor-Portfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
